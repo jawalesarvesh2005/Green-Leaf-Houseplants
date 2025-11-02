@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.c6874a27.css","mappings":"AAAA,cAAc,CACd,oBAAoB,CACpB,mBAAmB,CAEnB,KACE,8BACF","sources":["index.css"],"sourcesContent":["@tailwind base;\r\n@tailwind components;\r\n@tailwind utilities;\r\n\r\nbody {\r\n  font-family: 'Poppins', sans-serif;\r\n}\r\n"],"names":[],"sourceRoot":""}
